@@ -1,3 +1,12 @@
+Name: Om Ganesh S
+company:CODTECH IT SOLUTIONS
+ID:CT08DS1677
+Domain: Fullstack Development
+Duration:June to July 2024
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -64,6 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+![Blog Application](https://github.com/Omnikutti/CODTECH-Task-2/assets/98655887/03ec76e8-684c-473e-bf93-fa2c82d95a6c)
+
 
 ### `npm run build` fails to minify
 
